@@ -12,7 +12,7 @@
 
   "dependencies": {
     "artillery": "^2.0.27",
-    "artillery-engine-playwright": "^0.0.6",
+    "artillery-engine-playwright": "^1.24.0",
     "artillery-plugin-metrics-by-endpoint": "^1.0.2",
     "artillery-plugin-publish-metrics": "^2.0.0",
     "axios": "^0.27.2",
