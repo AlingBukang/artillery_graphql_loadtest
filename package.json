@@ -15,7 +15,7 @@
     "artillery-engine-playwright": "^1.24.0",
     "artillery-plugin-metrics-by-endpoint": "^1.0.2",
     "artillery-plugin-publish-metrics": "^2.0.0",
-    "axios": "^0.27.2",
+    "axios": "^0.30.2",
     "lokijs": "^1.5.12"
   },
   "devDependencies": {
